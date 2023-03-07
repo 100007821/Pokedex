@@ -1,6 +1,10 @@
 body {
     background-image:url(imagenes/kanto-map.jpeg); 
     background-size: 100% 200%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
   }
 img {
     margin-top: 100px;
