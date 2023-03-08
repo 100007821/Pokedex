@@ -1,8 +1,8 @@
 body{
-    background-color: bisque;
+    background-color: rgb(196, 222, 255);
 }
 mark{
-    background-color: rgb(255, 153, 0);
+    background-color: rgb(255, 0, 0);
     padding: 7px;
 }
 p{
